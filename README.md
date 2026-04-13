@@ -1,4 +1,4 @@
-# 🧠💀 GNN – Grundlagen Neuronale Netze
+# 🧠💀 GNN - Grundlagen Neuronale Netze
 
 Dieses Repository ist kein Projekt.
 
